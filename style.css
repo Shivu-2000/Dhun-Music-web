@@ -82,6 +82,10 @@ nav ul li {
     margin: 13px 0;
 }
 
+#masterSongname{
+    padding-left: 10px;    
+}
+
 .songListContainer {
     margin: 54px;
 }
